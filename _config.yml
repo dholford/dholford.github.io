@@ -6,10 +6,11 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: HolfordHub
+description: Homework
 
 # Your name to show in the footer
-author: Some Person
+author: Dylan Holford
 
 # --- List of links in the navigation bar --- #
 
@@ -99,11 +100,11 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+navbar-col: "#191970"
+navbar-text-col: "#FDF5E6"
+navbar-border-col: "#B0C4DE"
+page-col: "#4682B4"
+text-col: "#FFFAF0"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
