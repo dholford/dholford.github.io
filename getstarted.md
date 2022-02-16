@@ -74,7 +74,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -105,14 +105,14 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-section-01 p {
      font-size: 20px
 }
-.gs-section-02 h3{
+.gs-section-02 h3 {
      color: Snow }
      
 .gs-section-02 p {
      font-size: 20px
 }
 
-.gs-section-03 h3{
+.gs-section-03 h3 {
      color: Snow }
      
 .gs-section-03 p {
