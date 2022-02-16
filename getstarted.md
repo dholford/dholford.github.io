@@ -100,20 +100,20 @@ Note that this was the easy way to *create* your website, but it does come at a 
 <style>
 
 .gs-section-01 h3 { 
-     color: DarkBlue }
+     color: Snow }
 
 .gs-section-01 p {
      font-size: 20px
 }
 .gs-section-02 h3{
-     color: DarkBlue }
+     color: Snow }
      
 .gs-section-02 p {
      font-size: 20px
 }
 
 .gs-section-03 h3{
-     color: DarkBlue }
+     color: Snow }
      
 .gs-section-03 p {
      font-size: 20px
